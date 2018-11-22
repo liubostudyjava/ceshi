@@ -8,6 +8,11 @@ public class Main {
         System.out.println("HelloWorld1!");
         System.out.println("HelloWorld1!");
 
+3245234523
+
+5345234
+2452353
+        System.out.println("bs—Ó¿•!");
         System.out.println("bs—Ó¿•!");
         System.out.println("HelloWorld!");
         System.out.println("sb—Ó¿•!");
